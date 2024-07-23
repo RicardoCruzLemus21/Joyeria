@@ -1,0 +1,117 @@
+
+.caja1{
+position:absolute;
+width:1350px; 
+height:100px;
+top:0px;
+left:0px;
+right:;
+background:#EC7C28;
+}
+
+
+.cajapadre{
+position:relative;
+top:40px;
+left:10px;
+width:600px; 
+height:1000px;
+position:absolute; 
+}
+
+
+/*
+.carousel{
+width:100px; 
+height:1005px;
+top:60px;
+left:140px;
+right:0px;
+}
+*/
+
+.gif1{
+width:100px; 
+height:100px;
+top:2px;
+left:140px;
+position:absolute; 
+}
+
+h1{
+font-family: sans-serif;
+text-align: center;
+margin-top:-3px;
+font-size:100px;
+font-weight:100px;
+color:transparent;
+background:url(https://media.giphy.com/media/OK5LK5zLFfdm/giphy.gif);
+background-position:center;
+-webkit-background-clip:text;
+}
+
+.mostrardatos{
+position:relative;
+text-align: center;
+top:150px;
+left:600px;
+width:525px; 
+height:2000px;
+position:absolute; 
+}
+
+h2{
+font-family: sans-serif;
+text-align: center;
+margin-top:-3px;
+font-size:100px;
+font-weight:100px;
+color:transparent;
+background:url(https://media.giphy.com/media/OK5LK5zLFfdm/giphy.gif);
+background-position:center;
+-webkit-background-clip:text;
+}
+
+/*
+.cajagerente{
+margin-left: 450px;
+margin-top:-350px;
+}
+*/
+
+.gifgerente{
+font-family: sans-serif;
+text-align: center;
+margin-top:-1825px;
+margin-left: -550px;
+font-size:100px;
+font-weight:100px;
+}
+
+
+.titulogerente{
+font-family: sans-serif;
+margin-top: 40px;
+margin-left: -350px;
+width:2000px; 
+height:2000px;
+}
+
+/*
+.gifinicio{
+position: relative;
+font-family: sans-serif;
+margin-top:240px;
+margin-left:100px;
+font-size:100px;
+}
+*/
+
+.carousel4{
+position: absolute;
+width:1025px; 
+height:1005px;
+top:60px;
+left:140px;
+right:0px;
+}
